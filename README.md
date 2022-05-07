@@ -1,1 +1,1 @@
-siema siema znowu zapodana ema
+siema siema 
