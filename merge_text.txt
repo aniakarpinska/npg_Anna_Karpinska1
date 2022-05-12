@@ -1,1 +1,1 @@
-jestem w branchu npg_test
+jestem w branchu npg_test zmieniane
